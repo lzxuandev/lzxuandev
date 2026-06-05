@@ -11,7 +11,7 @@ This is lzxuandev and I am a Computer Science student based in Malaysia with a d
 ---
 
 Projects I've worked on include:
-- [Quoridor](https://https://github.com/lzxuandev/quoridor) : My first chess-board game using raylib and winsock
+- [Quoridor](https://github.com/lzxuandev/quoridor) : My first chess-board game using raylib and winsock
 - [Eye-candy note taking app](https://github.com/lzxuandev/wisdom) : My First android app using raymob api and android sdk
 
 <br>
