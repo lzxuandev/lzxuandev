@@ -17,16 +17,15 @@ Projects I've worked on include:
 <br>
 
 ```c
-    struct Person me = {
-        .name = "Lim ZhiXuan",
-        .gender = "male",
-        .role = "student",
-        .languages = {"zh_CN", "en_US", "ms_MY"},
-        .hobbies = {"chess", "rubik's cube", "piano", "badminton", "JoJo's Bizarre Adventure", "The Walking Dead"}
-    };
+Person me = {
+    .name = "Lim ZhiXuan",
+    .gender = "male",
+    .role = "student",
+    .languages = {"zh_CN", "en_US", "ms_MY"},
+    .hobbies = {"chess", "rubik's cube", "piano", "badminton", "JoJo's Bizarre Adventure", "The Walking Dead"}
+};
 
-    printf("Thanks for dropping by, hope you find some of my work interesting.\n");
-
+printf("Thanks for dropping by, hope you find some of my work interesting.\n");
 ```
 
 ### Languages and Tools
@@ -54,6 +53,6 @@ Projects I've worked on include:
  - 📫 How to reach me: [limzhixuandev@gmail.com](limzhixuandev@gmail.com)
  - 🔗 My website: [https://limzhixuan.com/](https://limzhixuan.com/)
  - 📷 Project showcase: [https://instagram.com/lzxuandev](https://www.instagram.com/lzxuandev/)
- - 🌱 Currently study at UTAR [Click here to check it out](https://utar.edu.my/)
+ - 🌱 Currently study at UTAR [Click here to check it out](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
  <br>
