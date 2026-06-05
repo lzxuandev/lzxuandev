@@ -16,9 +16,18 @@ Projects I've worked on include:
 
 <br>
 
-![lzxuandev's GitHub stats](https://kayan-github-profile-projects-featu.vercel.app/api?username=lzxuandev&show_icons=true&theme=dark)
+```c
+    struct Person me = {
+        .name = "Lim ZhiXuan",
+        .gender = "male",
+        .role = "student",
+        .languages = {"zh_CN", "en_US", "ms_MY"},
+        .hobbies = {"chess", "rubik's cube", "piano", "badminton", "JoJo's Bizarre Adventure", "The Walking Dead"}
+    };
 
+    printf("Thanks for dropping by, hope you find some of my work interesting.\n");
 
+```
 
 ### Languages and Tools
 
