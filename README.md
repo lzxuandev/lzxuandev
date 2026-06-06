@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is lzxuandev and I am a Computer Science student based in Malaysia with a deep passion for low-level systems programming. <em>I embrace the philosophy of keeping everything simple and stupid. </em>
+This is lzx and I am a Computer Science student based in Malaysia with a deep passion for low-level systems programming. <em>I embrace the philosophy of keeping everything simple and stupid. </em>
 
 <br>
 
