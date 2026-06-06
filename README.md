@@ -22,7 +22,7 @@ Person me = {
     .gender = "male",
     .role = "student",
     .languages = {"zh_CN", "en_US", "ms_MY"},
-    .hobbies = {"chess", "rubik's cube", "piano", "badminton", "JoJo's Bizarre Adventure", "The Walking Dead"}
+    .hobbies = {"chess", "rubik's cube", "piano", "badminton", "stacking"}
 };
 
 printf("Thanks for dropping by, hope you find some of my work interesting.\n");
