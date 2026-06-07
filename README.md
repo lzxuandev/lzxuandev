@@ -44,6 +44,7 @@ printf("Thanks for dropping by, hope you find some of my work interesting.\n");
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" width="40" height="40" alt="GTK" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1280px-Neovim-mark.svg.png?_=20150131093814" width="40" height="40" alt="Neovim" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
 </div>
