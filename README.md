@@ -6,8 +6,6 @@ This is lzx and I am a Computer Science student based in Malaysia with a deep pa
 
 > "To c, or not to c, that is the question."
 
-
-
 ---
 
 Projects I've worked on include:
