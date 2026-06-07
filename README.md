@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is lzx and I am a Computer Science student based in Malaysia with a deep passion for low-level systems programming. <em>I embrace the philosophy of keeping everything simple and stupid. </em>
+This is lzx and I am a Computer Science student based in Malaysia with a deep passion for mid-level systems programming. <em>I embrace the philosophy of keeping everything simple and stupid. </em>
 
 <br>
 
@@ -37,6 +37,9 @@ printf("Thanks for dropping by, hope you find some of my work interesting.\n");
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png?_=20170517184425" width="40" height="40" alt="html" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/960px-CSS3_logo_and_wordmark.svg.png?_=20160530175649" width = "40" height="40" alt="css" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?_=20120221235433" width = "40" height="40" alt="css" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" alt="Qt" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" width="40" height="40" alt="GTK" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />&nbsp;
