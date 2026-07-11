@@ -9,7 +9,7 @@ This is lzx and I am a Computer Science student based in Malaysia with a deep pa
 ---
 
 Projects I've worked on include:
-- [gitool](https://github.com/lzxuandev/gitool): a command line interface tool for remote specific github repository file and dir.
+- [gitool](https://github.com/lzxuandev/gitool): A CLI tools for remote specific github repository file and dir using API
 - [Quoridor](https://github.com/lzxuandev/quoridor) : My first chess-board game using raylib and winsock
 - [Eye-candy note taking app](https://github.com/lzxuandev/wisdom) : My First android app using raymob api and android sdk
 
